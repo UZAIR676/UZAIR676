@@ -1,8 +1,7 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fgithub-wallpapers&psig=AOvVaw2Ubrxs9n4Zit6nH5ZaDRUR&ust=1706289939161000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiHycKH-YMDFQAAAAAdAAAAABAD" alt="alternative-text">
+<img src="https://wallpapercave.com/wp/wp3082259.png" alt="alternative-text">  
 
 <h1 align="center">Hi 👋, I'm RANA MUHAMMAD UZAIR</h1>
 <h3 align="center">A passionate full-stack-developer from Pakistan</h3>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzair676&label=Profile%20views&color=0e75b6&style=flat" alt="uzair676" /> </p>
