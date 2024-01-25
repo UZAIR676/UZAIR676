@@ -1,4 +1,4 @@
-<img src="https://imageio.forbes.com/specials-images/imageserve/1005771222/Programming-code-abstract-technology-background-of-software-developer-and--Computer/960x0.jpg?format=jpg&width=960" alt="alternative-text">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fgithub-wallpapers&psig=AOvVaw2Ubrxs9n4Zit6nH5ZaDRUR&ust=1706289939161000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiHycKH-YMDFQAAAAAdAAAAABAD" alt="alternative-text">
 
 <h1 align="center">Hi 👋, I'm RANA MUHAMMAD UZAIR</h1>
 <h3 align="center">A passionate full-stack-developer from Pakistan</h3>
