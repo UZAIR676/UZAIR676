@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/wp/wp3082259.png" alt="alternative-text">  
+
 
 <h1 align="center">Hi 👋, I'm RANA MUHAMMAD UZAIR</h1>
 <h3 align="center">A passionate full-stack-developer from Pakistan</h3>
