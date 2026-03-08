@@ -1,15 +1,9 @@
-<img src="https://camo.githubusercontent.com/1a20b6ac9d2f8efb6c7f19c7e93044f9351083810617c74c773d9055dc3953aa/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67" alt="Banner" class="w-full h-auto mb-6" />
-
 <h2 align="left">Hi 👋! My name is Uzair, and I'm a MERN Stack Developer and Machine Learning Engineer from Pakistan</h2>
 
 ---
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UZAIR676&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UZAIR676&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UZAIR676&theme=dracula" height="150" alt="GitHub Streak" />
