@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uzair, and I'm a MERN Stack Developer and Machine Learning Engineer from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Uzair</h2>
 
 ---
 
