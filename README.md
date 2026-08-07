@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Rana%20Muhammad%20Uzair&fontSize=45&fontColor=00FF9C&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Rana%20Muhammad%20Uzair&fontSize=45&fontColor=FF3131&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <h3 align="center">🧠 Building AI products from scratch. 🚀 Shipping full-stack platforms.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-New%20York%2C%20USA-00FF9C?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF9C?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Location-New%20York%2C%20USA-FF3131?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-FF3131?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 B.S. Computer Science @ CUNY LaGuardia | John Jay College (GPA 3.2)
+- 🎓 B.S. Computer Science @ CUNY LaGuardia | John Jay College (GPA 3.3)
 - 💼 Full Stack & AI/ML Engineer — 2+ years building real, shipped products
 - 🔭 Currently building **NexaGuard** — an AI-powered financial security platform
 - 🎹 Trained a **Transformer from scratch** on Google's MAESTRO dataset to generate piano music
@@ -131,12 +131,20 @@ Rainfall forecasting on historical weather data — preprocessing, model trainin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UZAIR676&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UZAIR676&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-</div>
+  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=UZAIR676&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=UZAIR676&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
 </div>
 
 ---
@@ -145,7 +153,7 @@ Rainfall forecasting on historical weather data — preprocessing, model trainin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uzair-rana-uzair"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://uzairrana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C" /></a>
+  <a href="https://uzairrana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF3131" /></a>
   <a href="mailto:uzairranamuhammad7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/13477241605"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
